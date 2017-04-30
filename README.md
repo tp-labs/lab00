@@ -12,6 +12,7 @@
 - [cat](https://en.wikipedia.org/wiki/Cat_(Unix))
 - [cd](https://en.wikipedia.org/wiki/Cd_(command))
 - [cp](https://en.wikipedia.org/wiki/Cp_(Unix))
+- [cut](https://en.wikipedia.org/wiki/Cut_(Unix))
 - [echo](https://en.wikipedia.org/wiki/Echo_(command))
 - [env](https://en.wikipedia.org/wiki/Env_(shell))
 - [ex](https://en.wikipedia.org/wiki/Ex_(editor))
