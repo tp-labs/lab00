@@ -36,6 +36,7 @@
 ## Software
 
 - [curl](https://www.gitbook.com/book/bagder/everything-curl/details)
+- [wget](https://www.gnu.org/software/wget/manual/wget.pdf)
 - [clang](https://clang.llvm.org)
 - [g++](https://gcc.gnu.org/onlinedocs/gcc-4.0.2/gcc/G_002b_002b-and-GCC.html)
 - [make](https://en.wikipedia.org/wiki/Make_(software))
