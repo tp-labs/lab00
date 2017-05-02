@@ -38,7 +38,7 @@
 
 - [clang](https://clang.llvm.org)
 - [curl](https://www.gitbook.com/book/bagder/everything-curl/details)
-- [cygwin]https://ru.wikipedia.org/wiki/Cygwin
+- [cygwin](https://ru.wikipedia.org/wiki/Cygwin)
 - [g++](https://gcc.gnu.org/onlinedocs/gcc-4.0.2/gcc/G_002b_002b-and-GCC.html)
 - [make](https://en.wikipedia.org/wiki/Make_(software))
 - [open](https://developer.apple.com/legacy/library/documentation/Darwin/Reference/ManPages/man1/open.1.html)
