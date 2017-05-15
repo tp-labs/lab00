@@ -50,4 +50,4 @@
 
 ## Links
 
-- [Core Utilities](https://en.wikipedia.org/wiki/GNU_Core_Utilities)
+- [GNU Coreutils](https://en.wikipedia.org/wiki/GNU_Core_Utilities)
