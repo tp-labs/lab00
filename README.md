@@ -47,3 +47,7 @@
 - [tree](https://linux.die.net/man/1/tree)
 - [vim](http://www.vim.org)
 - [wget](https://www.gnu.org/software/wget/manual/wget.pdf)
+
+## Links
+
+- [Core Utilities](https://en.wikipedia.org/wiki/GNU_Core_Utilities)
