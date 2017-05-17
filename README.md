@@ -10,7 +10,9 @@
 - [ ] 4. Отправить зарегистрированный адрес почтового ящика личным сообщением в **Slack**
 - [ ] 5. Отправить зарегистрированный логин личным сообщением в **Slack**
 - [ ] 6. Ознакомиться со ссылками учебного материала
-- [ ] 7. Сгенирировать SSH ключ и добавть его в список ключей для сервиса **GitHub**
+- [ ] 7. Выполнить инструкцию учебного материала
+- [ ] 8. Сгенирировать **SSH** ключ и добавть его в список ключей для сервиса **GitHub**
+- [ ] 9. Сгенирировать **Personal Token** с правами **gist** и сохранить его в файл
 
 ## Links
 
@@ -18,6 +20,7 @@
 - [Google Sheets](https://www.google.ru/intl/ru/sheets/about/)
 - [Google Docs](https://www.google.ru/intl/ru/docs/about/)
 - [GitHub](https://github.com)
-- [Github SSH key](https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/)
+- [GitHub SSH Key](https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/)
 - [Markdown](https://stackedit.io)
 - [Gist](https://gist.github.com)
+- [GitHub Personal Token](https://github.com/settings/tokens/new)
