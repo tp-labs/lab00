@@ -24,3 +24,8 @@
 - [Markdown](https://stackedit.io)
 - [Gist](https://gist.github.com)
 - [GitHub Personal Token](https://github.com/settings/tokens/new)
+
+
+```
+Copyright (c) 2017 Vyacheslav Vershinin
+```
