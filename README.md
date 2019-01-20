@@ -24,6 +24,7 @@ $ curl --version
 $ git --version
 $ g++ --version
 $ hub --version
+$ make --version
 $ subl --version
 $ wget --version
 ```
