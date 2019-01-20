@@ -26,6 +26,7 @@ $ g++ --version
 $ hub --version
 $ make --version
 $ subl --version
+$ tree --version
 $ wget --version
 ```
 
