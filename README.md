@@ -15,6 +15,18 @@
 - [ ] 9. Сгенирировать **Personal Token** с правами **gist** и сохранить его в файл
 - [ ] A. Составить отчет и отправить ссылку личным сообщением в **Slack**
 
+## Tutorial
+
+```
+# check development environment
+$ cmake --version
+$ curl --version
+$ git --version
+$ g++ --version
+$ subl --version
+$ wget --version
+```
+
 ## Links
 
 - [Slack](https://slack.com)
