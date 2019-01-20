@@ -17,7 +17,7 @@
 
 ## Tutorial
 
-```ShellSession
+```sh
 # check development environment
 $ cmake --version
 $ curl --version
