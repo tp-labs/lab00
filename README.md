@@ -28,5 +28,5 @@
 
 
 ```
-Copyright (c) 2015-2019 The ISC Authors. 
+Copyright (c) 2015-2019 The ISC Authors
 ```
