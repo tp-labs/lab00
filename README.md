@@ -28,6 +28,7 @@ $ make --version
 $ subl --version
 $ tree --version
 $ wget --version
+$ openssl version
 ```
 
 ## Links
