@@ -1,4 +1,4 @@
-## Laboratory work I
+## Laboratory work 0
 
 Данная лабораторная работа посвещена изучению систем обмена данными
 
@@ -28,5 +28,5 @@
 
 
 ```
-Copyright (c) 2017 Братья Вершинины
+Copyright (c) 2015-2019 The ISC Authors. 
 ```
