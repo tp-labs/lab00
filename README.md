@@ -23,6 +23,7 @@ $ cmake --version
 $ curl --version
 $ git --version
 $ g++ --version
+$ hub --version
 $ subl --version
 $ wget --version
 ```
