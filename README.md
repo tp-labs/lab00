@@ -32,15 +32,10 @@ $ openssl version
 
 ## Links
 
-- [Slack](https://slack.com)
-- [Google Sheets](https://www.google.ru/intl/ru/sheets/about/)
-- [Google Docs](https://www.google.ru/intl/ru/docs/about/)
-- [GitHub](https://github.com)
-- [GitHub SSH Key](https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/)
-- [Markdown](https://stackedit.io)
-- [Gist](https://gist.github.com)
 - [GitHub Personal Token](https://github.com/settings/tokens/new)
-
+- [Gist](https://gist.github.com)
+- [Markdown](https://guides.github.com/features/mastering-markdown/)
+- [Slack](https://slack.com)
 
 ```
 Copyright (c) 2015-2019 The ISC Authors
