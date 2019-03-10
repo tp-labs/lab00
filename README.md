@@ -17,7 +17,7 @@
 ## Tutorial
 
 ```sh
-# check development environment
+# tip: check development environment
 $ cmake --version
 $ curl --version
 $ git --version
