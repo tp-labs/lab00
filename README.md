@@ -38,5 +38,5 @@ $ openssl version
 - [Slack](https://slack.com)
 
 ```
-Copyright (c) 2015-2019 The ISC Authors
+Copyright (c) 2015-2020 The ISC Authors
 ```
